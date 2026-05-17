@@ -6,6 +6,24 @@
     table , th, td , {border: 1xp solid black);border-collapse:collapse} 
     th , td {background-color: #ED9C1F;} 
   </head>
-  <body style="background-color:rgb() 
+  <body style="background-color:rgb(245, 200, 132)">
+  <h1 style="text-align:center"> Typy Licencií:</h1>
+  <table style="width=100%; table-align:center">
+    <tr>
+      <th> Licencia</th>
+      <th> Význam </th>
+    </tr>
+    <tr>
+      <td> CC BY </td>
+      <td> uviest autora</td>
+    </tr>
+    <tr>
+      <td> CC SA </td>
+      <td> rovnaka licencia </td>
+    </tr>
+    <tr>
+      <td> CCO </td>
+      <td> volne pouzitie </td>
+    </tr>
   </body>
 </html>
